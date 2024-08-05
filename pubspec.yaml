@@ -2,7 +2,7 @@ name: firebase_auth_services
 description: In this application, you can use Firebase Authentication for user registration, login, email update, and logout functionalities, while managing the user token locally using Shared Preferences.
 
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/asliddinCoDeR77/firebase_auth_services
 
 environment:
   sdk: ^3.4.3
